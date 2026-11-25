@@ -20,4 +20,3 @@ Este repositorio contiene la entrega del primer trabajo práctico introductorio:
 2. **Operaciones:** Uso de operaciones matemáticas automáticas (`+`, `-`, `*`, `/`).
 3. **Condicionales (`if`/`else`):** Lógica para la toma de decisiones según los valores ingresados.
 4. **Bucles (`for`):** Automatización de repeticiones y proyecciones numéricas.
-   
